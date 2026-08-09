@@ -1,5 +1,13 @@
 # Awesome Quantum Machine Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<div align="center">
+  <img src="https://img.shields.io/github/repo-size/givemehat/awesome-quantum-machine-learning?style=for-the-badge&color=blue" alt="Repository Size" />
+  <img src="https://img.shields.io/github/license/givemehat/awesome-quantum-machine-learning?style=for-the-badge&color=green" alt="License" />
+  <img src="https://img.shields.io/github/commit-activity/m/givemehat/awesome-quantum-machine-learning?style=for-the-badge&color=orange" alt="Commit Activity" />
+  <img src="https://img.shields.io/github/last-commit/givemehat/awesome-quantum-machine-learning?style=for-the-badge&color=red" alt="Last Commit" />
+</div>
+
+
 > A curated list of awesome Quantum Machine Learning (QML) algorithms, study materials, libraries, and software.
 
 Quantum Machine Learning is an emerging interdisciplinary research area at the intersection of quantum physics and machine learning.
