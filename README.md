@@ -46,4 +46,4 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Qiskit Slack](https://qiskit.slack.com/)
 
 ---
-*Created with ❤️ by [Rajnish Singh](https://github.com/givemehat). If you find this repository useful, please consider giving it a ⭐!*
+*Created with ❤️ by [Rajnish Singh](https://github.com/givemehat). If you find this repository useful, please consider giving it a ⭐! Looking more collaborators*
